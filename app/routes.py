@@ -13,7 +13,7 @@ def about():
     me = {
         "first_name": "Daniel",
         "last_name": "Avilez",
-        "hobby": "Collecting shoes"
+        "hobby": "Collecting shoes, and cars"
 
 
     }
